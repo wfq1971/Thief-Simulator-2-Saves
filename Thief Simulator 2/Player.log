@@ -1,7 +1,7 @@
-Mono path[0] = 'd:/thief.simulator.2.v1.21/thief.simulator.2.v1.21/Thief Simulator 2_Data/Managed'
-Mono config path = 'd:/thief.simulator.2.v1.21/thief.simulator.2.v1.21/MonoBleedingEdge/etc'
+Mono path[0] = 'H:/Thief.Simulator.2.v1.21/Thief.Simulator.2.v1.21/Thief Simulator 2_Data/Managed'
+Mono config path = 'H:/Thief.Simulator.2.v1.21/Thief.Simulator.2.v1.21/MonoBleedingEdge/etc'
 Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
-[Subsystems] Discovering subsystems at path d:/thief.simulator.2.v1.21/thief.simulator.2.v1.21/Thief Simulator 2_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/Thief.Simulator.2.v1.21/Thief.Simulator.2.v1.21/Thief Simulator 2_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -10,16 +10,13 @@ Direct3D:
     VRAM:     8073 MB
     Driver:   31.0.15.4601
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.523 seconds
+- Completed reload, in 87.717 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 The referenced script on this Behaviour (Game Object 'Box001') is missing!
 The referenced script on this Behaviour (Game Object 'Box002') is missing!
-UnloadTime: 41.032700 ms
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
+UnloadTime: 119.324800 ms
 Ian
 1332720 True
 Can not play a disabled audio source
@@ -27,173 +24,14 @@ Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
 Can not play a disabled audio source
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Couldn't create a Convex Mesh from source mesh "add_wh_rr" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "add_wh_fr" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "bumper_f" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Headphones" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Neumatico2_Neumatico_2" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "CivilCar_Body_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "SmallTank_low" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "vase_5" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Chassis" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Chassis" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "VintageRadio" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Neumatico2_Neumatico_2" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "GumBallMachine_R" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "clock 8" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "PhoneBody_low" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "CivilCar_Body_LOD1" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "DC3_Sport_3_Body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "DC3_Sport_4_Body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Car04_Interior_SteeringWheel_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "CivilCar_SteeringWheel_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "add_wh_fl" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "add_wh_rl" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Couldn't create a Convex Mesh from source mesh "APRP-KEYFAB_BASE" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "wheel_fl" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Mask12" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "lobster_01_LOD2" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Mask8" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Mask6" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "GeishaMask_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "GPS Device" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-Shader 'Enviro/Clouds Particles Advanced': fallback shader 'Legacy Shader/Particles/Alpha Blended' not found
-UnloadTime: 64.966600 ms
-Shader 'Hidden/Advanced Night Vision - Three passes': fallback shader 'Advanced Night Vision - One pass' not found
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-
-Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 141444.
-Total: 231.353500 ms (FindLiveObjects: 10.618200 ms CreateObjectMapping: 7.496400 ms MarkObjects: 141.873700 ms  DeleteObjects: 71.352300 ms)
-
-Can not play a disabled audio source
-Couldn't create a Convex Mesh from source mesh "Table Decor 1" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Bathtub" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Trashcan_b" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Table" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Hedge_Hero_2_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "PonyBody_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "table" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Van01_WheelRearRight_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Van01_WheelRearLeft_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Van01_WheelFrontRight_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "Van01_WheelFrontLefte_LOD0" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-The referenced script on this Behaviour (Game Object 'Van01_WheelHubRearRight') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_WheelHubFrontLeft') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_BrakeRearRight') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_BrakeFrontRight') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_BrakeRearLeft') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_WheelHubFrontRight') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_BrakeFrontLeft') is missing!
-The referenced script on this Behaviour (Game Object 'Van01_WheelHubRearLeft') is missing!
-The referenced script on this Behaviour (Game Object 'Flare (1)') is missing!
-The referenced script on this Behaviour (Game Object 'Flare') is missing!
-The referenced script (BuildingMakerToolset.MeshCombiner.PropCombiner) on this Behaviour is missing!
-The referenced script (BuildingMakerToolset.MeshCombiner.PropCombiner) on this Behaviour is missing!
-The referenced script on this Behaviour (Game Object '_BUILDING') is missing!
-A scripted object (probably BuildingMakerToolset.MeshCombiner.PropCombiner?) has a different serialization layout when loading. (Read 32 bytes but expected 1784 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-The referenced script on this Behaviour (Game Object 'BUILDING') is missing!
-A scripted object (probably BuildingMakerToolset.MeshCombiner.PropCombiner?) has a different serialization layout when loading. (Read 32 bytes but expected 2036 bytes)
-Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
-Couldn't create a Convex Mesh from source mesh "body" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "bumper_f" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-TerrainCollider: MeshCollider is not supported on terrain at the moment.
-Renderer 'T_StonePlain_C' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'wall' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'Lion' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'Stairs' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'T_StonePlain_C' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'wall' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'Lion' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'Stairs' is registered with more than one LODGroup ('Cell (464.0, 48.0, 208.0)' and 'Cells').
-Renderer 'Router item_jrbs0ya' is registered with more than one LODGroup ('Router item_jrbs0ya' and 'Stash (1)').
-Renderer 'Router item_jrbs0ya' is registered with more than one LODGroup ('Router item_jrbs0ya' and 'Stash (1)').
-Renderer 'headphones2_85nuo69' is registered with more than one LODGroup ('headphones2_85nuo69' and 'Stash (2)').
-Renderer 'headphones2_85nuo69' is registered with more than one LODGroup ('headphones2_85nuo69' and 'Stash (2)').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('headphones4_0yk0$g7' and 'safe_01').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('headphones4_0yk0$g7' and 'safe_01').
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "DOMY/Soda Store/Ogrodzenie/Key 105"
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-WheelCollider requires an attached Rigidbody to function.
-WheelCollider requires an attached Rigidbody to function.
-WheelCollider requires an attached Rigidbody to function.
-WheelCollider requires an attached Rigidbody to function.
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Kinematic body only supports Speculative Continuous collision detection
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.Renderer.set_enabled(UnityEngine.Renderer,bool)
-  at Impostors.ImpostorLODGroup.CreateRenderInstructionsBuffers () [0x000b8] in <c7f88616501b40d38eb8792bc016fa42>:0 
-  at Impostors.ImpostorLODGroup.Cache () [0x00006] in <c7f88616501b40d38eb8792bc016fa42>:0 
-  at Impostors.ImpostorLODGroup.Enable () [0x00000] in <c7f88616501b40d38eb8792bc016fa42>:0 
-  at Impostors.ImpostorLODGroup.Start () [0x00007] in <c7f88616501b40d38eb8792bc016fa42>:0 
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "DOMY/Dom 107/Interior_107/key_107"
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Can not play a disabled audio source
-Curl error 60: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_USER_ERROR1
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Renderer 'headphones4_0yk0$g7' is registered with more than one LODGroup ('safe_01' and 'headphones4_0yk0$g7').
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Quit Game
-Curl error 42: Callback aborted
 Setting up 10 worker threads for Enlighten.
-  Thread -> id: 2d18 -> priority: 1 
-  Thread -> id: 71bc -> priority: 1 
-  Thread -> id: 4794 -> priority: 1 
-  Thread -> id: 2a80 -> priority: 1 
-  Thread -> id: 72ec -> priority: 1 
-  Thread -> id: 2618 -> priority: 1 
-  Thread -> id: 428c -> priority: 1 
-  Thread -> id: 65c0 -> priority: 1 
-  Thread -> id: 5e34 -> priority: 1 
-  Thread -> id: 1c50 -> priority: 1 
+  Thread -> id: 2500 -> priority: 1 
+  Thread -> id: 4a20 -> priority: 1 
+  Thread -> id: 1d8c -> priority: 1 
+  Thread -> id: 2b08 -> priority: 1 
+  Thread -> id: 3dc0 -> priority: 1 
+  Thread -> id: 7040 -> priority: 1 
+  Thread -> id: 4f08 -> priority: 1 
+  Thread -> id: 73d4 -> priority: 1 
+  Thread -> id: 6e20 -> priority: 1 
+  Thread -> id: 5d38 -> priority: 1 
